@@ -19,7 +19,7 @@ Il fournit un tableau de bord clair, journalise tous les événements et permet 
 
 1. Cloner le dépôt :
 ```bash
-git clone https://github.com/tonpseudo/DDOS_protector_bot.git
+git clone https://github.com/yahyaboutahlil/DDOS_protector_bot.git
 
 Pour installer les dépandences python : pip install -r requirements.txt
 pour lancer le projet : python main.py
