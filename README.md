@@ -1,13 +1,13 @@
 # DDOS_protector_bot
 
-🛡️ **DDOS_protector_bot** est un logiciel de cybersécurité conçu pour détecter et bloquer les attaques DDoS en temps réel.  
+🛡️ **DDOS_protector_bot** est un logiciel de cybersécurité conçu pour détecter et bloquer les attaques DDoS .  
 Il fournit un tableau de bord clair, journalise tous les événements et permet de simuler facilement des requêtes pour tester la protection des serveurs et des réseaux.
 
 ---
 
 ## Fonctionnalités principales
 
-- Détection en temps réel des attaques DDoS grâce à un module de surveillance des requêtes IP.  
+- Détection des attaques DDoS grâce à un module de surveillance des requêtes IP.  
 - Blocage automatique des IP suspectes via un module de blacklist.  
 - Tableau de bord console interactif pour suivre les statistiques en direct.  
 - Journalisation complète des événements et blocages pour analyse post-incident.  
